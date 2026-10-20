@@ -47,4 +47,6 @@ Tailored for rapid engineering, automation, and prototyping:
 * **Frictionless Input Flexibility:** Supports seamless toggling between voice transcription, quick-action shortcut buttons, and granular file/media attachments via the unified command bar (`+` trigger).
 
 ### **After cloning the repo**
-**just open the powershell redirect it to the cloned repo folder and type npm run dev to start the server and then open the link shown in your powershell**
+**Just open the powershell redirect it to the cloned repo folder and type npm run dev to start the server and then open the link shown in your powershell.**
+
+### **Now You Are Ready To Go**
