@@ -45,3 +45,6 @@ Tailored for rapid engineering, automation, and prototyping:
 * **Command-Line Speed with Conversational Elegance:** Merges the raw power of a developer terminal with the fluid UX of a natural language assistant.
 * **Immersive HUD Aesthetics:** Styled with a sleek dark-navy matte theme, vibrant cyan/teal arc reactor indicators, and minimalist typography to maintain an authentic, distraction-free command-center atmosphere.
 * **Frictionless Input Flexibility:** Supports seamless toggling between voice transcription, quick-action shortcut buttons, and granular file/media attachments via the unified command bar (`+` trigger).
+
+### **After cloning the repo**
+**just open the powershell redirect it to the cloned repo folder and type npm run dev to start the server and then open the link shown in your powershell**
